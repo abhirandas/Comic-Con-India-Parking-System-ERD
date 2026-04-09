@@ -178,17 +178,7 @@ WHERE session_id = 'SESSION_ID';
 
   * online booking
   * dynamic pricing
-  * analytics dashboards
-
----
-
-## 📷 ER Diagram
-
-> Add your ER diagram image here
-
-![ER Diagram](./comic-con-india-parking-lot ER diagram.png)
-
----
+  * analytics dashboard
 
 ## 🎯 Conclusion
 
