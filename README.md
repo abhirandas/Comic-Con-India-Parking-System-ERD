@@ -186,9 +186,7 @@ WHERE session_id = 'SESSION_ID';
 
 > Add your ER diagram image here
 
-```md
-![ER Diagram](./diagram.png)
-```
+![ER Diagram](./comic-con-india-parking-lot ER diagram.png)
 
 ---
 
